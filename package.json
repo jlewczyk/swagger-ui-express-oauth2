@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      "swagger-ui-express-oauth2@2.0.0",
+      "c:\\sourceTrees\\ApiNodeServer6\\ApiProjectServerAndUI"
+    ]
+  ],
+  "_from": "swagger-ui-express-oauth2@2.0.0",
+  "_id": "swagger-ui-express-oauth2@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-Vg8om7ZCCzR1Z0o5/dkdme4wztU=",
+  "_location": "/swagger-ui-express-oauth2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "swagger-ui-express-oauth2@2.0.0",
+    "name": "swagger-ui-express-oauth2",
+    "escapedName": "swagger-ui-express-oauth2",
+    "rawSpec": "2.0.0",
+    "saveSpec": null,
+    "fetchSpec": "2.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/swagger-ui-express-oauth2/-/swagger-ui-express-oauth2-2.0.0.tgz",
+  "_spec": "2.0.0",
+  "_where": "c:\\sourceTrees\\ApiNodeServer6\\ApiProjectServerAndUI",
+  "author": {
+    "name": "John Lewczyk",
+    "email": "jlewczyk@harriscomputer.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jlewczyk/swagger-ui-express-oauth2/issues"
+  },
+  "description": "Swagger UI Express Oauth2 Fixed",
+  "devDependencies": {
+    "es6-shim": "0.35.2",
+    "express": "4.12.2",
+    "mocha": "2.2.5",
+    "phantom": "2.1.21"
+  },
+  "engines": {
+    "node": ">= v0.10.32"
+  },
+  "files": [
+    "static",
+    "package.json",
+    "index.js",
+    "indexTemplate.html"
+  ],
+  "homepage": "https://github.com/scottie1984/swagger-ui-express-oauth2",
+  "keywords": [
+    "swagger",
+    "express",
+    "ui",
+    "json",
+    "documentation"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "./lib/index.js",
+  "name": "swagger-ui-express-oauth2",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jlewczyk/swagger-ui-express-oauth2.git"
+  },
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "version": "2.0.0"
+}
